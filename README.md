@@ -1,0 +1,2 @@
+# String-Matching-Scientific-Variables
+The metadata used by sensors and devices were unreadable for other devices and people, this issue caused many confusions to the people and the researchers needed to spend a lot of time in formalizing the terms. This project is designed for fixing the above problem, it is about developing a system that will take a term as the input, then search from the vocabularies library and output a list of suggestions of possible meaning of the term. 
