@@ -1,2 +1,5 @@
 # String-Matching-Scientific-Variables
-The metadata used by sensors and devices were unreadable for other devices and people, this issue caused many confusions to the people and the researchers needed to spend a lot of time in formalizing the terms. This project is designed for fixing the above problem, it is about developing a system that will take a term as the input, then search from the vocabularies library and output a list of suggestions of possible meaning of the term. 
+This project was written in Python 3. The web-based version was created using Django 2.1
+
+To run the PyCharm version of project, run the Main.py.
+To run the web-based version of project, in the cmd / terminal move to the directory of the folder which contains the file manage.py in file stringMatchingProject and use "python manage.py runserver" or "python manage.py runserver 8080" to run the project. Type http://127.0.0.1 or http://127.0.0.1:8080/ in the web broswer to use the application.
